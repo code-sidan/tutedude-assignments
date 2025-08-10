@@ -34,7 +34,9 @@ This program focuses on string manipulation and user interaction.
 It asks for the user's first name and last name, combines them into a full name, and then prints a personalized greeting message.
 
 Example Output:
+
 Enter your first name: Fuzzy
+
 Enter your last name: Duck
 
 Hello, Fuzzy Duck! Welcome to the Python program!
